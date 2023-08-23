@@ -14,11 +14,11 @@ nlp:
     phrases: 0.2
     patterns: 0.2
 
-dependencies:
-  - name: bot-1-common
-    type: git
-    url: https://github.com/grabarnick/bot-1-domain
-    version: master
-    # Если репозиторий приватный:
-    loginSecretKey: GITHUB_LOGIN_SECRET
-    tokenSecretKey: GITHUB_TOKEN_SECRET
+# dependencies:
+#   - name: bot-1-common
+#     type: git
+#     url: https://github.com/grabarnick/bot-1-domain
+#     version: master
+#     # Если репозиторий приватный:
+#     loginSecretKey: GITHUB_LOGIN_SECRET
+#     tokenSecretKey: GITHUB_TOKEN_SECRET
