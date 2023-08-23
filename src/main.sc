@@ -1,6 +1,6 @@
 require: slotfilling/slotFilling.sc
     module = sys.zb-common
-require: mymodule/mymodule.sc
+require: mymodule.sc
     module = mymodule
 theme: /
 
