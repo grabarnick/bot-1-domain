@@ -1,5 +1,7 @@
 require: slotfilling/slotFilling.sc
-  module = sys.zb-common
+    module = sys.zb-common
+require: main.sc
+    module = main  
 theme: /
 
     state: Start
