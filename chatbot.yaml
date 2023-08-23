@@ -15,7 +15,7 @@ nlp:
     patterns: 0.2
 
 dependencies:
-  - name: bot-1-common
+  - name: mymodule
     type: git
     url: https://github.com/grabarnick/bot-1
     version: master
