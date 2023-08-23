@@ -1,7 +1,7 @@
 require: slotfilling/slotFilling.sc
     module = sys.zb-common
 require: mymodule/src/mymodule.sc
-    module = mymodule
+    module = bot-1-common
 theme: /
 
     state: Start
