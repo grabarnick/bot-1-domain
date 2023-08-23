@@ -20,5 +20,5 @@ dependencies:
     url: https://github.com/grabarnick/bot-1
     version: master
     # Если репозиторий приватный:
-    # loginSecretKey: GITHUB_LOGIN_SECRET
-    # tokenSecretKey: GITHUB_TOKEN_SECRET
+    loginSecretKey: GITHUB_LOGIN_SECRET
+    tokenSecretKey: GITHUB_TOKEN_SECRET
