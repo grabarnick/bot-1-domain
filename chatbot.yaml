@@ -17,7 +17,7 @@ nlp:
 dependencies:
   - name: bot-1-common
     type: git
-    url: https://github.com/grabarnick/bot-1
+    url: https://github.com/grabarnick/bot-1-domain
     version: master
     # Если репозиторий приватный:
     loginSecretKey: GITHUB_LOGIN_SECRET
